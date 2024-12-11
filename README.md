@@ -27,3 +27,7 @@ Models are evaluated on metrics such as accuracy, precision, recall, F1-score, a
 
 4. Model Selection and Hyperparameter Tuning
 After training and evaluating the models, hyperparameter tuning is applied using GridSearchCV to optimize the model's parameters for better performance. XGBoost was selected as the best model based on its high ROC-AUC score and strong performance across multiple metrics
+
+
+## **Conclusion**
+This project demonstrates an end-to-end machine learning pipeline to predict loan repayment behavior and identify potential defaulters. After evaluating various models, XGBoost was chosen as the best model for loan default prediction
