@@ -31,3 +31,8 @@ After training and evaluating the models, hyperparameter tuning is applied using
 
 ## **Conclusion**
 This project demonstrates an end-to-end machine learning pipeline to predict loan repayment behavior and identify potential defaulters. After evaluating various models, XGBoost was chosen as the best model for loan default prediction
+
+### **Key files:**
+1.Eda.ipynb-EDA Analysis
+2.model_.py-Preprocessing
+3.model_selection.ipynb-Final Selection
