@@ -14,9 +14,14 @@ In the preprocessing stage, the data is cleaned and transformed. Missing values 
 The project evaluates multiple machine learning models, including:
 
 Logistic Regression: A simple and interpretable model for binary classification tasks.
+
 Random Forest: An ensemble learning method that can capture complex relationships in the data.
+
 XGBoost: A gradient boosting model known for its superior performance in handling imbalanced datasets and high accuracy.
+
 K-Nearest Neighbors (KNN): A non-parametric model used for classification tasks based on similarity.
+
+
 3. Model Evaluation
 Models are evaluated on metrics such as accuracy, precision, recall, F1-score, and ROC-AUC. These metrics help identify the model that performs best for loan default prediction, considering the importance of handling imbalanced data.
 
